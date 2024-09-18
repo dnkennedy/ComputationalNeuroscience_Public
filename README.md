@@ -3,5 +3,5 @@ Public facing content for the Computational Neuroscience course.
 
 ## Intro Notebook
 * [Link](./Intro.ipynb) to Notebook
-* [Execute] in Google Colab
+* [Execute](https://colab.research.google.com/github/dnkennedy/ComputationalNeuroscience_Public/blob/main/Intro.ipynb) in Google Colab
 
